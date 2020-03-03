@@ -2,29 +2,27 @@
 
 **CS50 (Computer Science 50)** is an on-campus and online introductory course on computer science taught at Harvard University and, as of 2015, Yale University as well. In 2016, CS50 became available to high school students as an AP course. The course material is available online for free on EdX with a range of certificates available for a fee. The on-campus version is Harvard's largest class with 800 students, 102 staff and up to 2,200 participants in their regular hackathons.
 
-###
-1. Problem set 1:
+1. __Problem set 1:__
   * Hello
   * Mario
   * Mario Hard
   * Cash
   * Credit
 
-2. Problem set 2:
+2. __Problem set 2:__
   * Caesar
   * Vigenère
   * Crack
-3. Problem set 3:
 
-4. Problem set 4:
+3. __Problem set 3:__
 
-5. Problem set 5:
+4. __Problem set 4:__
 
-6. Problem set 6:
+5. __Problem set 5:__
 
-7. Problem set 7:
+6. __Problem set 6:__
 
-8. Problem set 8:
+7. __Problem set 7:__
 
 ### External links:
 * [CS50 Official Web site](https://cs50.harvard.edu/)
